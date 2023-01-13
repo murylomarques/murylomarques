@@ -3,7 +3,7 @@
 
 ## Onde me encontrar 👇
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/murylo-marque)
+[![linkedin](www.linkedin.com/in/murylo-brayan-d-bb4336199)
 
 
 #
