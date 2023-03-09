@@ -1,10 +1,5 @@
 ### Hello, I'm Murylo Marques 😄
 
-## Where to find me 👇
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/murylo-marques)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murylobrayan@gmail.com)
-#
 
 
 ![](https://github-readme-stats.vercel.app/api?username=murylomarques&theme=blue-green)
