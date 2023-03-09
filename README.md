@@ -19,7 +19,8 @@ https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=w
 
 #
 ## I am currently learning 🎓
-
+![jQuery](
+https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Wordpress](
 https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![jQuery](
