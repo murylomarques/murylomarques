@@ -7,6 +7,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=murylomarques&theme=blue-green)
+![](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000)
 
 #
 ## Technology I use in my day 👨‍💻
