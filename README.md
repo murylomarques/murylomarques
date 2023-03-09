@@ -3,10 +3,10 @@
 ## Where to find me 👇
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/murylo-brayan-d-bb4336199)
+#
 
 
-
-
+![](https://github-readme-stats.vercel.app/api?username=murylomarques&theme=blue-green)
 
 #
 ## Technology I use in my day 👨‍💻
