@@ -23,6 +23,4 @@ https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=w
 #
 ## A little bit about myself:
 
-I am currently studying Systems Analysis and Development at Instituto Presbiteriano Mackenzie, where I am acquiring solid knowledge in programming, database management, and software engineering.
-In addition, I have a technical background in computer science and experience in web development. I have also taken courses in Python and have knowledge of other programming languages such as Java and C.
-Durante minha carreira, alcancei inúmeras conquistas notáveis, incluindo o desenvolvimento bem-sucedido de vários projetos, como websites, softwares e muito mais.
+Currently, I am studying Systems Analysis and Development at Instituto Presbiteriano Mackenzie, where I am acquiring solid knowledge in programming, database management, and software engineering. Additionally, I have a technical background in computer science and experience in web development. I have taken courses in Python and have knowledge of other programming languages such as Java and C. Throughout my career, I have achieved numerous noteworthy accomplishments, including successful development of various projects, such as websites, software, and more.
