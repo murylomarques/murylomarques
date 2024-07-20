@@ -32,7 +32,7 @@ A brief description of what this project is about.
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/murylomarques)
+- [LinkedIn](www.linkedin.com/in/murylo-marques)
 - [Twitter](https://twitter.com/murylomarques)
 - [Personal Website](https://example.com)
 
