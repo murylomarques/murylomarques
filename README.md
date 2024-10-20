@@ -1,13 +1,15 @@
 # 👋 Hello, I'm **Murylo Marques**! 😄
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F5DD42&center=true&vCenter=true&width=440&lines=Developer+%7C+Tech+Enthusiast+%7C+Lifelong+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F5DD42&center=true&vCenter=true&width=550&lines=Developer+%7C+Tech+Enthusiast+%7C+Lifelong+Learner;Open+to+Opportunities!" alt="Typing Animation" />
 </div>
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murylomarques&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/murylomarques)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murylomarques&theme=radical&layout=compact)](https://github.com/murylomarques)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murylomarques&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murylomarques&theme=radical&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
@@ -30,19 +32,19 @@
 
 ## 🌟 **A Little Bit About Myself**
 
-🎓 Currently, I'm studying **Systems Analysis and Development** at **Instituto Presbiteriano Mackenzie**. My passion for technology began early, and throughout my journey, I’ve honed my skills in **programming**, **database management**, and **software engineering**. 
-
-💻 I've built websites, created software applications, and dived into exciting projects using **Python**, **Java**, **C**, and more.
+- 🎓 I'm currently studying **Systems Analysis and Development** at **Instituto Presbiteriano Mackenzie**.
+- 💻 I love working with **Python**, **Java**, **Flutter**, and building interactive web applications.
+- 🚀 My focus is on **software engineering**, **web development**, and **automation**.
 
 ---
 
-## 🛠️ **Projects**
+## 🛠️ **Highlighted Projects**
 
-### [🔗 Project Name](https://github.com/murylomarques/project-name)
-A brief description of what this project is about.
+### [🚀 Project 1: Web Application](https://github.com/murylomarques/project-name)
+- Description: A full-stack web app built with JavaScript, PHP, and MySQL.
 
-### [🔗 Project Name](https://github.com/murylomarques/project-name)
-A brief description of what this project is about.
+### [📱 Project 2: Mobile App with Flutter](https://github.com/murylomarques/project-name)
+- Description: A cross-platform mobile app for task management using Flutter and Firebase.
 
 ---
 
@@ -57,14 +59,18 @@ A brief description of what this project is about.
 
 ---
 
-**✨ Latest Blog Post:** [How I Build Modern Web Apps](https://example.com/blog/latest-post)
+## ✨ **Blog & Latest Posts**
 
-![Profile Views](https://komarev.com/ghpvc/?username=murylomarques&color=brightgreen)
+- [🌟 How I Build Modern Web Apps](https://example.com/blog/latest-post)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=murylomarques&color=brightgreen" alt="Profile Views" />
+</div>
 
 ---
 
-## ✨ **Animation Ideas**
+## 🔥 **Let's Collaborate!**
 
-- Add **hover effects** to badges and icons (use CSS or SVG animations).
-- Include a **progress bar** for current projects or skills you are developing.
-- Apply a **smooth transition effect** for links and section headers.
+<div align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200" height="200" alt="Collaboration" />
+</div>
