@@ -1,7 +1,7 @@
-# 👋 Hello, I'm **Murylo Marques**! 😄
+# 👋 Hello, I'm **Murylo Marques**! 🌟
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F5DD42&center=true&vCenter=true&width=550&lines=Developer+%7C+Tech+Enthusiast+%7C+Lifelong+Learner;Open+to+Opportunities!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F5DD42&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%7C+Java+Enthusiast+%7C+React+Specialist;Let%27s+Build+Something+Amazing!" alt="Typing Animation" />
 </div>
 
 ---
@@ -13,47 +13,49 @@
 
 ---
 
-## 🚀 **Technologies I Use**
+## 🚀 **Technologies I Master**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge" />
 </div>
 
 ---
 
-## 🌟 **A Little Bit About Myself**
+## 🌟 **About Me**
 
-- 🎓 I'm currently studying **Systems Analysis and Development** at **Instituto Presbiteriano Mackenzie**.
-- 💻 I love working with **Python**, **Java**, **Flutter**, and building interactive web applications.
-- 🚀 My focus is on **software engineering**, **web development**, and **automation**.
-- 🌱 I am passionate about **AI**, **machine learning**, and exploring **blockchain technology**.
+- 🎓 Currently pursuing **Systems Analysis and Development** at **Instituto Presbiteriano Mackenzie**.
+- 💡 Passionate about building dynamic applications with **Java** and **React**.
+- 🚀 Experienced in developing scalable full-stack applications using **Spring Boot**, **Node.js**, and **React**.
+- 🌱 Always exploring the latest technologies and best practices in web development to stay ahead of the curve.
 
 ---
 
 ## 🛠️ **Highlighted Projects**
 
-### [🚀 Project 1: Web Application](https://github.com/murylomarques/project-name)
-- **Description:** A full-stack web app built with JavaScript, PHP, and MySQL.
-- **Technologies:** React, Node.js, Express, MongoDB
+### [🚀 Project 1: E-commerce Platform](https://github.com/murylomarques/ecommerce-platform)
+- **Description:** A fully functional e-commerce web application built with Java, Spring Boot, and React.
+- **Key Features:**
+  - User authentication and role-based access
+  - Product catalog and shopping cart functionality
+  - Real-time order tracking and payment integration
 
-### [📱 Project 2: Mobile App with Flutter](https://github.com/murylomarques/project-name)
-- **Description:** A cross-platform mobile app for task management using Flutter and Firebase.
-- **Features:** Real-time data syncing, user authentication, and push notifications.
+### [📱 Project 2: Task Management App](https://github.com/murylomarques/task-manager)
+- **Description:** A task management application that allows users to create, update, and track tasks.
+- **Technologies Used:** React, Node.js, Express, MongoDB
+- **Highlights:**
+  - Intuitive user interface with responsive design
+  - Real-time updates using WebSockets
 
 ---
 
-## 📫 **Connect with Me**
+## 📫 **Let's Connect!**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/murylo-marques"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
@@ -64,10 +66,10 @@
 
 ---
 
-## ✨ **Blog & Latest Posts**
+## ✨ **Recent Blog Posts**
 
-- [🌟 How I Build Modern Web Apps](https://example.com/blog/latest-post)
-- [🔍 Exploring AI and Machine Learning](https://example.com/blog/ai-ml)
+- [🌟 Building Scalable Applications with Java and React](https://example.com/blog/java-react)
+- [🚀 Best Practices for Full-Stack Development](https://example.com/blog/fullstack-best-practices)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=murylomarques&color=brightgreen" alt="Profile Views" />
