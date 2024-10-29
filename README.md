@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge" />
 </div>
 
 ---
@@ -35,16 +37,19 @@
 - 🎓 I'm currently studying **Systems Analysis and Development** at **Instituto Presbiteriano Mackenzie**.
 - 💻 I love working with **Python**, **Java**, **Flutter**, and building interactive web applications.
 - 🚀 My focus is on **software engineering**, **web development**, and **automation**.
+- 🌱 I am passionate about **AI**, **machine learning**, and exploring **blockchain technology**.
 
 ---
 
 ## 🛠️ **Highlighted Projects**
 
 ### [🚀 Project 1: Web Application](https://github.com/murylomarques/project-name)
-- Description: A full-stack web app built with JavaScript, PHP, and MySQL.
+- **Description:** A full-stack web app built with JavaScript, PHP, and MySQL.
+- **Technologies:** React, Node.js, Express, MongoDB
 
 ### [📱 Project 2: Mobile App with Flutter](https://github.com/murylomarques/project-name)
-- Description: A cross-platform mobile app for task management using Flutter and Firebase.
+- **Description:** A cross-platform mobile app for task management using Flutter and Firebase.
+- **Features:** Real-time data syncing, user authentication, and push notifications.
 
 ---
 
@@ -62,6 +67,7 @@
 ## ✨ **Blog & Latest Posts**
 
 - [🌟 How I Build Modern Web Apps](https://example.com/blog/latest-post)
+- [🔍 Exploring AI and Machine Learning](https://example.com/blog/ai-ml)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=murylomarques&color=brightgreen" alt="Profile Views" />
