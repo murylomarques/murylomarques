@@ -1,7 +1,8 @@
-# 👋 Hello, I'm **Murylo Marques**! 🌟
+# 👋 Olá, eu sou **Murylo Marques**! 🌟
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F5DD42&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%7C+Java+Enthusiast+%7C+React+Specialist;Let%27s+Build+Something+Amazing!" alt="Typing Animation" />
+  <h2>Full-Stack Developer | Java Enthusiast | React Specialist</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F5DD42&center=true&vCenter=true&width=550&lines=Construindo+Aplicações+Incríveis!+|+Sempre+Aprendendo" alt="Typing Animation" />
 </div>
 
 ---
@@ -13,60 +14,63 @@
 
 ---
 
-## 🚀 **Technologies I Master**
+## 🚀 **Tecnologias que Eu Domino**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </div>
 
 ---
 
-## 🌟 **About Me**
+## 🌟 **Sobre Mim**
 
-- 🎓 Currently pursuing **Systems Analysis and Development** at **Instituto Presbiteriano Mackenzie**.
-- 💡 Passionate about building dynamic applications with **Java** and **React**.
-- 🚀 Experienced in developing scalable full-stack applications using **Spring Boot**, **Node.js**, and **React**.
-- 🌱 Always exploring the latest technologies and best practices in web development to stay ahead of the curve.
-
----
-
-## 🛠️ **Highlighted Projects**
-
-### [🚀 Project 1: E-commerce Platform](https://github.com/murylomarques/ecommerce-platform)
-- **Description:** A fully functional e-commerce web application built with Java, Spring Boot, and React.
-- **Key Features:**
-  - User authentication and role-based access
-  - Product catalog and shopping cart functionality
-  - Real-time order tracking and payment integration
-
-### [📱 Project 2: Task Management App](https://github.com/murylomarques/task-manager)
-- **Description:** A task management application that allows users to create, update, and track tasks.
-- **Technologies Used:** React, Node.js, Express, MongoDB
-- **Highlights:**
-  - Intuitive user interface with responsive design
-  - Real-time updates using WebSockets
+- 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** no **Instituto Presbiteriano Mackenzie**.
+- 💡 Apaixonado por desenvolver aplicações dinâmicas com **Java** e **React**.
+- 🚀 Experiência em construir aplicações Full-Stack escaláveis utilizando **Spring Boot**, **Node.js** e **React**.
+- 🌱 Sempre explorando novas tecnologias e melhores práticas em desenvolvimento web.
 
 ---
 
-## 📫 **Let's Connect!**
+## 🛠️ **Projetos Destacados**
+
+### [🚀 Projeto 1: E-commerce Platform](https://github.com/murylomarques/ecommerce-platform)
+- **Descrição:** Aplicação web de e-commerce totalmente funcional, construída com Java, Spring Boot e React.
+- **Principais Funcionalidades:**
+  - Autenticação de usuários e acesso baseado em roles
+  - Catálogo de produtos e funcionalidade de carrinho de compras
+  - Rastreamento de pedidos em tempo real e integração de pagamento
+
+### [📱 Projeto 2: Task Management App](https://github.com/murylomarques/task-manager)
+- **Descrição:** Aplicativo de gerenciamento de tarefas que permite aos usuários criar, atualizar e rastrear tarefas.
+- **Tecnologias Usadas:** React, Node.js, Express, MongoDB
+- **Destaques:**
+  - Interface de usuário intuitiva com design responsivo
+  - Atualizações em tempo real usando WebSockets
+
+---
+
+## 📫 **Vamos Conectar!**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/murylo-marques"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-  <a href="https://twitter.com/murylomarques"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" /></a>
-  <a href="https://github.com/murylomarques"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a>
-  <a href="https://example.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website Badge" /></a>
+  <a href="https://www.linkedin.com/in/murylo-marques"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/murylomarques"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://github.com/murylomarques"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://example.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website" /></a>
 </div>
 
 ---
 
-## ✨ **Recent Blog Posts**
+## ✨ **Últimos Posts do Blog**
 
 - [🌟 Building Scalable Applications with Java and React](https://example.com/blog/java-react)
 - [🚀 Best Practices for Full-Stack Development](https://example.com/blog/fullstack-best-practices)
@@ -77,7 +81,7 @@
 
 ---
 
-## 🔥 **Let's Collaborate!**
+## 🔥 **Vamos Colaborar!**
 
 <div align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200" height="200" alt="Collaboration" />
