@@ -5,24 +5,29 @@ on:
     - cron: "0 0 * * *" # Atualiza a cada 24 horas
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # Gera a animação da cobrinha com um tema escuro (Dracula)
+      # Passo 1: Faz o checkout do código do repositório
+      # Este é o passo que estava faltando e que vai corrigir o erro.
+      - uses: actions/checkout@v3
+
+      # Passo 2: Gera a animação com tema escuro
       - name: Generate Snake for Dark Theme
         uses: Platane/snk@v3
         with:
           github_user_name: murylomarques
-          # Lista de saídas
           outputs: |
             dist/snake-dark.svg?palette=github-dark
             dist/snake.svg
         env:
-          # Token de acesso do GitHub
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Gera uma versão alternativa para o tema claro
+      # Passo 3: Gera a animação com tema claro
       - name: Generate Snake for Light Theme
         uses: Platane/snk@v3
         with:
@@ -31,7 +36,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Publica os arquivos gerados em uma branch chamada "output"
+      # Passo 4: Envia os arquivos gerados para a branch "output"
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
