@@ -9,12 +9,30 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake
+      # Gera a animação da cobrinha com um tema escuro (Dracula)
+      - name: Generate Snake for Dark Theme
         uses: Platane/snk@v3
         with:
           github_user_name: murylomarques
-          outputs: dist/snake.svg
-      - name: Push to GitHub
+          # Lista de saídas
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.svg
+        env:
+          # Token de acesso do GitHub
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Gera uma versão alternativa para o tema claro
+      - name: Generate Snake for Light Theme
+        uses: Platane/snk@v3
+        with:
+          github_user_name: murylomarques
+          outputs: dist/snake-light.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Publica os arquivos gerados em uma branch chamada "output"
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
