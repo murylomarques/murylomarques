@@ -1,9 +1,13 @@
 # Murylo Marques
 
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=5865F2&center=true&vCenter=true&width=550&lines=Desenvolvedor+Full-Stack;Especialista+em+Java+%26+React;Sempre+aprendendo+e+evoluindo" alt="Animação de digitação"></a>
+</div>
+
+<div align="center">
   <a href="https://github.com/murylomarques">
-    <img src="https://github-readme-stats.vercel.app/api?username=murylomarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Murylo Marques"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murylomarques&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas por Murylo Marques"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murylomarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Murylo Marques"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murylomarques&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas por Murylo Marques"/>
   </a>
 </div>
 
@@ -14,7 +18,7 @@
 <p align="left">
   💡 Desenvolvedor Full-Stack apaixonado por criar soluções inovadoras e escaláveis. <br/>
   🎓 Cursando Análise e Desenvolvimento de Sistemas no Instituto Presbiteriano Mackenzie. <br/>
-  🚀 Especializado em Java com Spring Boot para o back-end e React para o front-end. <br/>
+  🚀 Especializado em <strong>Java com Spring Boot</strong> para o back-end e <strong>React</strong> para o front-end. <br/>
   🌱 Sempre em busca de novos conhecimentos e melhores práticas de desenvolvimento.
 </p>
 
@@ -24,7 +28,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mysql,html,css,javascript,git,docker,kubernetes" alt="Ícones de Habilidades"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mysql,html,css,javascript,git,docker,kubernetes&perline=5" alt="Ícones de Habilidades"/>
   </a>
 </p>
 
@@ -67,3 +71,9 @@
   <a href="https://github.com/murylomarques" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:seu-email-aqui@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://github.com/murylomarques/murylomarques/blob/output/snake.svg" alt="Animação Snake do GitHub">
+</div>
