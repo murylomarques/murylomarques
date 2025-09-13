@@ -75,5 +75,9 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/murylomarques/murylomarques/blob/output/snake.svg" alt="Animação Snake do GitHub">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/murylomarques/murylomarques/blob/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/murylomarques/murylomarques/blob/output/snake.svg" />
+    <img alt="Animação Snake das contribuições do GitHub" src="https://github.com/murylomarques/murylomarques/blob/output/snake.svg" />
+  </picture>
 </div>
