@@ -102,9 +102,12 @@ Uma aplicação web de e-commerce construída com Java, Spring Boot e React. Est
 
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/murylomarques/murylomarques/blob/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/murylomarques/murylomarques/blob/output/snake.svg" />
-    <img alt="Animação Snake das contribuições do GitHub" src="https://github.com/murylomarques/murylomarques/blob/output/snake.svg" />
-  </picture>
+   <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murylomarques/murylomarques/output/pacman-contribution-graph-dark.svg">
+      <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/murylomarques/murylomarques/output/pacman-contribution-graph.svg">
+    </picture>
+  </p>
 </div>
+
+
