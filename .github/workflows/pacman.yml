@@ -1,15 +1,29 @@
-name: Pacman Contributions Animation
+name: Generate Pac-Man Contribution Graph
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 0"  # executa 1x por semana (domingo)
+    - cron: "0 0 * * *"   # executa todo dia à meia-noite
+  workflow_dispatch:     # permite rodar manualmente
+
+permissions:
+  contents: write  # precisa disso para escrever no repositório
 
 jobs:
-  run:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Pacman Contributions Animation
-        uses: teoxoy/pacman-contributions@v1
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pac-Man Graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
