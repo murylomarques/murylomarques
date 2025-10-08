@@ -1,24 +1,25 @@
-name: generate animation
+name: Pacman Contributions Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # executa todo dia à meia-noite
-  workflow_dispatch: # permite rodar manualmente
+    - cron: "0 0 * * *" # Executa todos os dias à meia-noite
+  workflow_dispatch: # Permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman Animation
+        uses: DrSh4dow/github-pacman@main
         with:
           github_user_name: murylomarques
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Deploy GitHub Pages
+
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
