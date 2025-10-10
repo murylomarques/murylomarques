@@ -2,8 +2,8 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # executa todo dia à meia-noite
-  workflow_dispatch:     # permite rodar manualmente
+    - cron: "0 3 * * *"   
+  workflow_dispatch:     
 
 permissions:
   contents: write  # precisa disso para escrever no repositório
