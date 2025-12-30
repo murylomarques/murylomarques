@@ -1,14 +1,6 @@
 <h1 align="center">Murylo Marques | Software Engineer</h1>
 <h3 align="center">Full-Stack • Backend • Cloud • IA aplicada a produtos</h3>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=murylomarques&show_icons=true&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murylomarques&layout=compact&theme=radical&hide_border=true" />
-  </a>
-</p>
 
 ---
 
