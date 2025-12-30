@@ -94,7 +94,7 @@ API RESTful focada em **segurança e autenticação**, construída com o ecossis
 
 ## 📫 Contato
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/murylo-brayan-d-bb4336199
+- 💼 **LinkedIn:** www.linkedin.com/in/murylo-marques
 - 📧 **Email:** murylobrayan@gmail.com
 
 ---
