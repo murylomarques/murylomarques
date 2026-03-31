@@ -1,36 +1,37 @@
 <h1 align="center">Murylo Marques</h1>
 
 <h3 align="center">
-Software Engineer • Data Engineering • Cloud Architecture • AI Products
+Software Engineer • Data Engineering • Cloud • AI Products
 </h3>
 
 <p align="center">
-Building scalable systems, SaaS products and modern data platforms
+Building scalable systems, SaaS platforms and modern data pipelines
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 Software engineer focused on building **scalable systems, SaaS products and modern data platforms**.
 
 I work across the entire stack — from **backend architecture and APIs** to **data pipelines, cloud infrastructure and AI-powered applications**.
 
-My goal is to design systems that are **reliable, scalable and production-ready**, combining software engineering with modern **data engineering practices**.
+My goal is to design systems that are **reliable, scalable and production-ready**, combining **software engineering with modern data engineering practices**.
 
-### Interests
+### Areas of Interest
 
-- 🚀 Building **SaaS platforms**
-- 📊 Designing **data pipelines and data platforms**
+- 🚀 SaaS product development
+- 📊 Data engineering and data pipelines
 - ☁️ Cloud-native architectures
-- 🔐 Secure backend systems
-- 🧠 Integrating **AI (LLMs)** into real products
+- 🔐 Secure backend APIs
+- 🧠 AI integration (LLMs) into real applications
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Backend Engineering
+
 - Python (FastAPI)
 - Java (Spring Boot)
 - REST APIs
@@ -38,6 +39,7 @@ My goal is to design systems that are **reliable, scalable and production-ready*
 - Microservices architecture
 
 ### Data Engineering
+
 - SQL (PostgreSQL / MySQL)
 - ETL / ELT pipelines
 - Data modeling
@@ -45,12 +47,14 @@ My goal is to design systems that are **reliable, scalable and production-ready*
 - Analytics engineering
 
 ### Frontend
+
 - React
 - TypeScript
 - Vite
 - Tailwind CSS
 
 ### Cloud & DevOps
+
 - Docker
 - GitHub Actions
 - Vercel
@@ -58,6 +62,7 @@ My goal is to design systems that are **reliable, scalable and production-ready*
 - Supabase (PostgreSQL)
 
 ### Databases
+
 - PostgreSQL
 - MySQL
 - H2 (testing)
@@ -85,8 +90,7 @@ Full-stack SaaS platform that generates personalized nutrition plans using **Gen
 - Data persistence
 - PDF generation
 
-🔗 Application  
-https://ai-nutrition-coach-sigma.vercel.app
+🔗 https://ai-nutrition-coach-sigma.vercel.app
 
 ---
 
@@ -99,11 +103,11 @@ Secure REST API focused on **authentication and authorization**.
 - JWT authentication
 - Role-based access control
 - BCrypt password encryption
-- Unit testing (JUnit + Mockito)
+- Unit tests (JUnit + Mockito)
 
 ---
 
-## 📊 Data Pipeline Project (in progress)
+## 📊 Data Pipeline Project (In Progress)
 
 End-to-end **data pipeline** designed to ingest, process and store data for analytics.
 
@@ -121,19 +125,10 @@ End-to-end **data pipeline** designed to ingest, process and store data for anal
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=murylomarques&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murylomarques&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/murylo-marques  
-- 📧 Email: murylobrayan@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/murylo-marques
+- 📧 Email: murylobrayan@gmail.com
 
 ---
 
