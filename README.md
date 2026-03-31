@@ -1,97 +1,143 @@
-<h1 align="center">Murylo Marques | Software Engineer</h1>
-<h3 align="center">Full-Stack • Backend • Cloud • IA aplicada a produtos</h3>
+<h1 align="center">Murylo Marques</h1>
 
+<h3 align="center">
+Software Engineer • Data Engineering • Cloud Architecture • AI Products
+</h3>
 
----
-
-## 👨‍💻 Sobre mim
-
-Sou **engenheiro de software** focado em construir **produtos SaaS reais**, escaláveis e prontos para produção.  
-Tenho experiência prática com **backend robusto**, **arquitetura em nuvem**, **APIs seguras** e **integração com IA (LLMs)**.
-
-Atualmente desenvolvo projetos **end-to-end**, cuidando desde a **arquitetura**, **persistência**, **segurança**, até **deploy em cloud** e experiência do usuário.
-
-- 🚀 Desenvolvimento de **SaaS em produção**
-- 🧠 Integração de **IA (LLMs) em produtos reais**
-- ☁️ Cloud, Docker e arquitetura escalável
-- 🔐 APIs seguras, stateless e bem estruturadas
-- 📈 Mentalidade de produto, não só código
+<p align="center">
+Building scalable systems, SaaS products and modern data platforms
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Backend & APIs
-- **Python (FastAPI)**
-- **Java (Spring Boot, Spring Security, Spring Data JPA)**
-- APIs RESTful
-- Autenticação stateless (JWT)
+Software engineer focused on building **scalable systems, SaaS products and modern data platforms**.
+
+I work across the entire stack — from **backend architecture and APIs** to **data pipelines, cloud infrastructure and AI-powered applications**.
+
+My goal is to design systems that are **reliable, scalable and production-ready**, combining software engineering with modern **data engineering practices**.
+
+### Interests
+
+- 🚀 Building **SaaS platforms**
+- 📊 Designing **data pipelines and data platforms**
+- ☁️ Cloud-native architectures
+- 🔐 Secure backend systems
+- 🧠 Integrating **AI (LLMs)** into real products
+
+---
+
+# 🛠️ Tech Stack
+
+### Backend Engineering
+- Python (FastAPI)
+- Java (Spring Boot)
+- REST APIs
+- JWT Authentication
+- Microservices architecture
+
+### Data Engineering
+- SQL (PostgreSQL / MySQL)
+- ETL / ELT pipelines
+- Data modeling
+- Data ingestion
+- Analytics engineering
 
 ### Frontend
-- **React + TypeScript**
+- React
+- TypeScript
 - Vite
 - Tailwind CSS
 
 ### Cloud & DevOps
-- **Docker & Docker Compose**
-- **Vercel (Frontend)**
-- **Render (Backend)**
-- **Supabase (PostgreSQL)**
-- CI/CD (GitHub Actions – em evolução)
+- Docker
+- GitHub Actions
+- Vercel
+- Render
+- Supabase (PostgreSQL)
 
-### Banco de Dados
+### Databases
 - PostgreSQL
 - MySQL
-- H2 (testes)
-
-### Testes & Qualidade
-- Pytest (em evolução)
-- JUnit 5
-- Mockito
+- H2 (testing)
 
 ---
 
-## 🚀 Projetos em Destaque
+# 🚀 Featured Projects
 
-### 🥗 **AI Nutrition Coach** — SaaS em Produção
+## 🥗 AI Nutrition Coach — SaaS Application
 
-> Aplicação SaaS full-stack que utiliza **IA generativa (Google Gemini 2.5)** para criar planos alimentares personalizados, com persistência em nuvem e arquitetura resiliente.
+Full-stack SaaS platform that generates personalized nutrition plans using **Generative AI (Google Gemini)**.
 
-🔗 **Aplicação online:**  
+### Tech Stack
+
+- FastAPI
+- PostgreSQL
+- React + TypeScript
+- Vercel + Render
+
+### Features
+
+- AI-powered nutrition plan generation
+- Cloud deployment
+- Resilient architecture
+- Data persistence
+- PDF generation
+
+🔗 Application  
 https://ai-nutrition-coach-sigma.vercel.app
 
-**Destaques técnicos:**
-- Backend em **FastAPI** com PostgreSQL (Supabase)
-- Frontend em **React + TypeScript**
-- Deploy real em cloud (Vercel + Render)
-- **Fallback automático** quando a IA falha
-- Arquitetura desacoplada e escalável
-- Geração de PDF e histórico de dados
+---
 
-📌 Projeto pensado com mentalidade de **engenharia de produto**, não apenas MVP.
+## 🔐 Authentication API (Spring Boot)
+
+Secure REST API focused on **authentication and authorization**.
+
+### Features
+
+- JWT authentication
+- Role-based access control
+- BCrypt password encryption
+- Unit testing (JUnit + Mockito)
 
 ---
 
-### 🔐 **Authentication API (Spring Boot)**
+## 📊 Data Pipeline Project (in progress)
 
-API RESTful focada em **segurança e autenticação**, construída com o ecossistema Spring.
+End-to-end **data pipeline** designed to ingest, process and store data for analytics.
 
-**Destaques:**
-- Autenticação stateless com JWT
-- Controle de acesso por roles
-- Criptografia com BCrypt
-- Testes unitários (JUnit + Mockito)
+### Technologies
+
+- Python
+- PostgreSQL
+- Docker
+
+### Features
+
+- automated ingestion
+- data transformation
+- analytics-ready datasets
 
 ---
 
-## 📫 Contato
+# 📊 GitHub Stats
 
-- 💼 **LinkedIn:** www.linkedin.com/in/murylo-marques
-- 📧 **Email:** murylobrayan@gmail.com
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=murylomarques&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murylomarques&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🎮 Contribuições
+# 📫 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/murylo-marques  
+- 📧 Email: murylobrayan@gmail.com  
+
+---
+
+# 🎮 Contributions
 
 <p align="center">
   <picture>
